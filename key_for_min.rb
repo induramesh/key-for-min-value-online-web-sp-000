@@ -3,5 +3,5 @@
 
 def key_for_min_value(name_hash)
   min = name_hash.first
-  hash.select
+  while 
 end
